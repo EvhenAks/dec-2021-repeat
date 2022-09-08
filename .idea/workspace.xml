@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04e8b47b-c367-4b31-a542-e4866117de4f" name="Changes" comment="add addititional 2">
-      <change afterPath="$PROJECT_DIR$/lesson3/hw/index.html" afterDir="false" />
+    <list default="true" id="04e8b47b-c367-4b31-a542-e4866117de4f" name="Changes" comment="add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/hw/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/hw/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,15 +28,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\dec-2021-repeat" />
@@ -49,7 +50,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661891288736</updated>
-      <workItem from="1661891289842" duration="259000" />
+      <workItem from="1661891289842" duration="466000" />
+      <workItem from="1661965504880" duration="3000" />
+      <workItem from="1662666631612" duration="3623000" />
     </task>
     <task id="LOCAL-00001" summary="add addititional 2">
       <created>1661891362208</created>
@@ -58,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661891362208</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add">
+      <created>1661891585772</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661891585772</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add addititional 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add addititional 2" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>
