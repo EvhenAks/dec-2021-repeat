@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04e8b47b-c367-4b31-a542-e4866117de4f" name="Changes" comment="hw 3">
-      <change afterPath="$PROJECT_DIR$/lesson3/additional/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/additional/main.js" afterDir="false" />
+    <list default="true" id="04e8b47b-c367-4b31-a542-e4866117de4f" name="Changes" comment="add hw 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +23,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2E5hKNoQ4oEOywQawxBpPJAAQoX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,7 +54,9 @@
       <updated>1661891288736</updated>
       <workItem from="1661891289842" duration="466000" />
       <workItem from="1661965504880" duration="3000" />
-      <workItem from="1662666631612" duration="5798000" />
+      <workItem from="1662666631612" duration="5978000" />
+      <workItem from="1663104318016" duration="2575000" />
+      <workItem from="1663169037103" duration="9750000" />
     </task>
     <task id="LOCAL-00001" summary="add addititional 2">
       <created>1661891362208</created>
@@ -76,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662670315575</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add 3">
+      <created>1662672499211</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662672499211</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add hw 4">
+      <created>1663170676582</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663170676582</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +114,8 @@
     <MESSAGE value="add addititional 2" />
     <MESSAGE value="add" />
     <MESSAGE value="hw 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw 3" />
+    <MESSAGE value="add 3" />
+    <MESSAGE value="add hw 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw 4" />
   </component>
 </project>
