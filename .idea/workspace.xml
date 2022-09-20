@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04e8b47b-c367-4b31-a542-e4866117de4f" name="Changes" comment="add hw5">
+    <list default="true" id="04e8b47b-c367-4b31-a542-e4866117de4f" name="Changes" comment="add hw5, hw6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +60,7 @@
       <workItem from="1663353790892" duration="7167000" />
       <workItem from="1663523920626" duration="4338000" />
       <workItem from="1663614909504" duration="2112000" />
-      <workItem from="1663703900572" duration="5551000" />
+      <workItem from="1663703900572" duration="7098000" />
     </task>
     <task id="LOCAL-00001" summary="add addititional 2">
       <created>1661891362208</created>
@@ -111,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663363802045</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add hw5, hw6">
+      <created>1663709562635</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663709562635</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +143,7 @@
     <MESSAGE value="add hw 4" />
     <MESSAGE value="add additional 4" />
     <MESSAGE value="add hw5" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw5" />
+    <MESSAGE value="add hw5, hw6" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw5, hw6" />
   </component>
 </project>
