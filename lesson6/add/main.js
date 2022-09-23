@@ -2,14 +2,18 @@
 // document.writeln(cutString('наслаждение',3)) // [нас,лаж,ден,ие]
 
 let str = 'наслаждение';
+let strArr = []
+let arr = []
 
-let cutString = function (str,n){
+console.log(strArr)
 
-    for (let i = 0; i > str.length; i++){
-        if (str[i] % n === 0){
-           return str.concat(',')
-        }
-    }
-}
+// let cutString = function (str,n){
+//
+//     for (let i = 0; i > str.length; i++){
+//         if (str[i] % n === 0){
+//            return str.concat(',')
+//         }
+//     }
+// }
 
-console.log(cutString(str, 2));
+// console.log(cutString(str, 2));
