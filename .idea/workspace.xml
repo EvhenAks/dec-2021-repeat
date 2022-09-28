@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04e8b47b-c367-4b31-a542-e4866117de4f" name="Changes" comment="add hw5, hw6">
+    <list default="true" id="04e8b47b-c367-4b31-a542-e4866117de4f" name="Changes" comment="add hw 7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7/hw/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/hw/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,8 @@
       <workItem from="1663872067251" duration="1450000" />
       <workItem from="1663959533217" duration="1980000" />
       <workItem from="1664115395998" duration="8033000" />
-      <workItem from="1664301412376" duration="2474000" />
+      <workItem from="1664301412376" duration="2498000" />
+      <workItem from="1664369455011" duration="7909000" />
     </task>
     <task id="LOCAL-00001" summary="add addititional 2">
       <created>1661891362208</created>
@@ -138,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663959624397</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add hw 7">
+      <created>1664303916923</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664303916923</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +171,7 @@
     <MESSAGE value="add additional 4" />
     <MESSAGE value="add hw5" />
     <MESSAGE value="add hw5, hw6" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw5, hw6" />
+    <MESSAGE value="add hw 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw 7" />
   </component>
 </project>
